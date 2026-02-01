@@ -1,0 +1,8 @@
+{
+  "name": " Ninja Fitz Gym",
+  "description": "A high-performance premium gym website with AI-driven fitness assistance, interactive pricing, and lead management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
